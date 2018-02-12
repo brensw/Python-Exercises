@@ -1,4 +1,4 @@
-#Brendan Sweeney
+#Brendan Sweeney, 09/02/2018
 #Collatz Conjecture
 print ("This program will test the Collatz Conjecture")
 
