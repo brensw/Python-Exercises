@@ -59,3 +59,5 @@ print("Fibonacci number", x, "is", ans)
 
 #The ord() command well generate a numerical value for an 
 #unicode character based on the characters position on the unicode list. 
+
+#sycing test. 
