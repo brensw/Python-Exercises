@@ -4,8 +4,8 @@
 def factorial(n_in):
     fact = 1
     while (n_in > 0):# set limit on number of loops
-        fact = fact * n_in #set fact to value of n_in
-        n_in = n_in - 1 #then reduce n_in by one on each pass
+        fact = fact * n_in #first multiplication will set 'fact' to value of n_in 
+        n_in = n_in - 1 #then n_in reduced by one on each pass will give factorial
     return fact # return final value of fact at end of looping
 print("The factorial of 5 is", factorial(5))
 print("The factorial of 7 is", factorial(7))
