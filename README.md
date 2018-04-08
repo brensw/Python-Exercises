@@ -7,7 +7,7 @@ All programs in the repositiry, with the exception of fibonnacci.py, have been c
 
 
 
-The five Python files that have been saved are as follows:
+The five Python files are as follows:
   # fibonacci.py   
   This file is modified code created by Ian McLoughlan, it creates the the Fibonacci number based on a given word/name in this case the name "Sweeney"
   # collatz.py
