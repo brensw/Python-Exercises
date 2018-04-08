@@ -3,7 +3,7 @@ Python Exercises
 This repository contains program files relating the problems/exercises given as part of 
 the Continious Assesment for the Programming and Scripting module. 
 
-All programs in the repositiry, with the exception of fibonnacci.py, have been created by me. I have however researched methods/ways to complete each exercise online, using [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com/r/Python/), [wiki.python.org](https://wiki.python.org/moin/) as well as various Python tutorials on [youtube](youtube.com). 
+All programs in the repositiry, with the exception of fibonnacci.py, have been created by me. I have however researched methods/ways to complete each exercise online, using [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com/r/Python/), [wiki.python.org](https://wiki.python.org/moin/) as well as various Python tutorials on [YouTube](youtube.com). 
 
 
 
