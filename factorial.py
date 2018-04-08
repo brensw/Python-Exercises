@@ -1,9 +1,9 @@
 #Brendan Sweeney,05/03/2018
 #Factorial Function
 
-def factorial(n_in):
+def factorial(n_in): #Define factorial
     fact = 1
-    while (n_in > 0):# set limit on number of loops
+    while (n_in > 0):# loop only for positive numbers
         fact = fact * n_in #first multiplication will set 'fact' to value of n_in 
         n_in = n_in - 1 #then n_in reduced by one on each pass will give factorial
     return fact # return final value of fact at end of looping
