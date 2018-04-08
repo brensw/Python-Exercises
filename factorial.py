@@ -1,5 +1,6 @@
 #Brendan Sweeney,05/03/2018
 #Factorial Function
+#The following discussion was consulted : https://stackoverflow.com/questions/5136447/function-for-factorial-in-python
 
 def factorial(n_in): #Define factorial
     fact = 1
