@@ -1,4 +1,4 @@
-# #Python Exercises
+##Python Exercises
 ==================
 This repository contains program files relating the problems/exercises given as part of 
 the Continious Assesment for the Programming and Scripting module.
