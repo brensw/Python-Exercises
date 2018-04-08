@@ -1,5 +1,6 @@
 #Brendan Sweeney, 09/02/2018
 #Collatz Conjecture
+# The following disccussion was consulted wehn creating this code https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
 print ("This program will test the Collatz Conjecture")
 
 n_in = int(input("Please enter a number:") ) #Get number to test conjecture
